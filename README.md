@@ -12,5 +12,5 @@ TODO
   height:200px;
   margin-right: 30px;
   margin-left: 28px;
-  width: calc((100%% - 28px)/3);
+  width: calc((100% - 28px)/3);
 }
