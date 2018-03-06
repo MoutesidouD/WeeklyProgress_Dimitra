@@ -10,7 +10,6 @@ TODO
 .sample_1 , .sample_2 , .sample_3 {
   max-width:350px;
   height:200px;
-  margin-right: 30px;
-  margin-left: 28px;
-  width: calc((100% - 28px)/3);
+  margin-right: 28px;
+  width: calc((100% - 56px)/3);
 }
