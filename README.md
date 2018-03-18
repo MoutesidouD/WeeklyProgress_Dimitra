@@ -7,9 +7,15 @@ TODO
 - [ ] Task 2 Start building my portfolio site
 
 
-.sample_1 , .sample_2 , .sample_3 {
-  max-width:350px;
-  height:200px;
-  margin-right: 28px;
-  width: calc((100% - 56px)/3);
-}
+# You already havee created a repository #
+# What else problem are you facing 
+you had asked me to post you a piece of code and it couldn't be seen properly here
+# There are two ways. When a code snippet is to be shared the best way is to create a gist. 
+Let me show you
+Then share the link https://gist.github.com/MoutesidouD/fea7ff6cd1abd4edb2ce29a9f7c61b39
+DOho you get it? yes thanks a lot! 
+
+The other way is to push to repository. Also You can type in readme file like
+```JavaScript
+var name = "World";
+console.log("Hello",name);
